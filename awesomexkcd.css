@@ -1,8 +1,6 @@
 @-moz-document regexp("http:\\/\\/xkcd.com\\/([0-9]+|archive)?(\\/)?") {
 	/* awesomexkcd | https://github.com/hbang/awesomexkcd | Apache 2 license */
 
-	@import url("https://fonts.googleapis.com/css?family=Open+Sans:200,400");
-
 	html {
 		background: #ddd;
 		padding: 40px;
